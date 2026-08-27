@@ -1,0 +1,8 @@
+title: OpenRouter Spend Tracker
+description: Tracks OpenRouter spend per call, per chat, with rolling 3h/24h/7d/30d/90d windows and a credits bar. Exact costs via a read-only management key that is never used for inference; built-in price-table estimation as fallback. All data stays local.
+github: https://github.com/duketopceo/a0-openrouter-spend
+tags:
+  - llm
+  - monitoring
+  - tools
+  - api
